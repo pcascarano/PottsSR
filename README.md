@@ -4,3 +4,4 @@ PottsSR is a Matlab toolbox for the reconstruction of jump-sparse HR images usin
 
 
 ## References
+[On the inverse Potts functional for single-image super-resolution problems,](https://arxiv.org/abs/2008.08470)
